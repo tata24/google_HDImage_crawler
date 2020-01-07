@@ -5,6 +5,6 @@
 ### 使用方法
 
 ```
-python google_HDImage_crawler.py --keyword=kobe  —path=output/
+python google_HDImage_crawler.py --keyword=kobe  —-path=output/
 ```
 
